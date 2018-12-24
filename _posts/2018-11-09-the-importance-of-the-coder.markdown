@@ -90,13 +90,13 @@ Interestingly, Lean, Agile, DevOps all have culture as common strand.
 See: [Seven principles of Lean](https://agilevelocity.com/lean/7-principles-of-lean-software-development/), [Agile Values](https://www.smartsheet.com/comprehensive-guide-values-principles-agile-manifesto), [DevOps Culture](https://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/digital-blog/five-cultural-changes-you-need-for-devops-to-work)
 
 
-> Integrated development and continuous delivery can only happen within a corporate culture that empowers its software developers and refines its IT and R&D reporting structures. From:  https://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/beyond-agile-reorganizing-it-for-faster-software-delivery
+> Integrated development and continuous delivery can only happen within a corporate culture that empowers its software developers and refines its IT and R&D reporting structures. From:  <https://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/beyond-agile-reorganizing-it-for-faster-software-delivery>
 
 A culture suitable for a modern software company needs to adopt true agile, lean and devops practices. Central to this is the empowerment of those writing the code. 
 
 ### Empowerment
 
-A self governing team, one that is able to own the whole process right on to production, provides numerous benefits and faster speed to market. We have examples of companies that deploy new features to production on a daily basis, some with multiple deploys a day (https://techbeacon.com/10-companies-killing-it-devops).
+A self governing team, one that is able to own the whole process right on to production, provides numerous benefits and faster speed to market. We have examples of companies that deploy new features to production on a daily basis, some with multiple deploys a day (<https://techbeacon.com/10-companies-killing-it-devops>).
 
 Forecasting is more accurate as teams are able to provide estimates that reflects true business value. Hand-offs to other teams, usually with undefined SLA's, make it impossible to gauge true team velocity. Forecasting the delivery of product increments or the overall roadmap is only possible when teams are empowered to own the whole.
 

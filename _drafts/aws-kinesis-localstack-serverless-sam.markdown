@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Spring Cloud Integration + AWS Kinesis  + Localstack + Serverless (SAM)
+category: draft
 ---
 
 Install pip

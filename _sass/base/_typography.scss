@@ -60,6 +60,14 @@ a {
   }
 }
 
+header a {
+  color: $header-action-color;
+}
+
+header.navigation {
+  box-shadow: 0 2px $header-action-color;
+}
+
 hr {
   border-bottom: $base-border;
   border-left: none;
