@@ -1,0 +1,22 @@
+---
+layout: post
+title: Genesis
+date: '2018-04-02 16:43:17'
+categories: Blogging
+author: Satish Ramjee
+tags:
+- ghost-tag
+- centos
+- blogging
+---
+
+First post
+
+Trying out the GHOST node based blogging software.
+
+
+[See here](https://ghost.org)
+
+Originally tried to use a docker ghost but the server is a centos vm and the providers do not provide that special something to turn this on.
+
+So just installed it directly (see future posts)
