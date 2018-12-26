@@ -12,3 +12,27 @@ open browser at external ip
 
 fill in the public key creds of your access client
 
+create a simple go app
+
+create a Procfile (for dokku)
+
+add 
+
+web: dokku-test (name of parent folder)
+
+to it
+
+`echo "web: dokku-test" > Procfile`
+
+
+ 
+
+in the directory
+
+```
+git init 
+git add . 
+git commit -m "init"
+git remote add gcp dokku@35.226.96.104:app
+git push gcp master
+
