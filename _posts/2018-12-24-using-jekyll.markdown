@@ -98,6 +98,12 @@ jekyll serve or jekyll build with the --drafts switch
 
 <https://mademistakes.com/articles/jekyll-static-comments/>
 
+Host staticman yourself:
+
+https://www.flyinggrizzly.net/2017/12/setting-up-staticman-server/
+
+
+
 
 
 ## Using Gitlab instead
