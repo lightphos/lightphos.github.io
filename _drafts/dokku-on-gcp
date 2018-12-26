@@ -1,0 +1,14 @@
+Create ubuntu 16 instance
+enable http firewall
+
+install dokku
+
+```
+wget https://raw.githubusercontent.com/dokku/dokku/v0.13.4/bootstrap.sh;
+sudo DOKKU_TAG=v0.13.4 bash bootstrap.sh
+```
+
+open browser at external ip 
+
+fill in the public key creds of your access client
+
