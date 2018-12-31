@@ -10,7 +10,7 @@ exclude:
 
 # Site settings
 title: blog.ramjee.uk
-subtitle: "Mostly Sofware"
+subtitle: "Mostly About Sofware"
 email: satish@ramjee.uk
 name: Satish Ramjee
 description: >
@@ -197,4 +197,4 @@ protocols:
     # os_rcs_type: "git"
     # os_src: "git@github.com:bencentra/centrarium.com.git"
 
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman

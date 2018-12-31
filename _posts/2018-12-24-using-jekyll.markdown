@@ -34,6 +34,7 @@ Jekyll home page:
 
   bundle exec jekyll serve
 
+
 ```
 => Now browse to <http://localhost:4000>
 
@@ -56,7 +57,7 @@ If you create a github project called {username}.github.io, then the site will b
 
 ### Themes
 
-You can handcraft the themes from various offering, or get them set this directly in githug settings page. 
+You can handcraft the themes from various offerings, or get them set directly in github settings page. 
 
 <https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site-with-the-jekyll-theme-chooser/>
 
@@ -98,9 +99,20 @@ jekyll serve or jekyll build with the --drafts switch
 
 <https://mademistakes.com/articles/jekyll-static-comments/>
 
-Host staticman yourself:
+<https://tosbourn.com/generating-comments-on-static-sites-with-staticman/>
+
+### Host staticman yourself:
 
 https://www.flyinggrizzly.net/2017/12/setting-up-staticman-server/
+
+Using staticlabman as a collaborator
+
+Then invite like so:
+<https://staticman3.herokuapp.com/v3/connect/github/lightphos/lightphos.github.io>
+
+
+More stuff here about gitlab and staticman
+<https://mmistakes.github.io/minimal-mistakes/docs/configuration/#configure-staticman>
 
 
 
